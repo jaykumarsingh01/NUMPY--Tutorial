@@ -1,0 +1,17 @@
+Numpy:
+Numpy is a low level library written  in C (and FORTRAN) for high level mathematical function. Numpy  cleaverly overcomes the problem of running slower algorithm on python by using 
+multidimensional array and function that operate on array. Any algorithm can then be expressed as a function on array, allowing the algorithm to be run quickly.
+
+Numpy what works:
+1. a powerful N-dimensional array object
+2. sophisticated (broadcasting) functions
+3. tools for integrating C/C++ and Fortran code
+4. useful linear algebra, Fourier transform, and random number capabilities
+
+NOTE:
+In numpy there is only one data structure N-d array(n-dimesional array) and in python there is nine data structure
+
+Application of numpy(n-d array properties)
+1.Homogenous.
+2.Only be number(Number,Float,Complex)
+3.Fixed item size.
