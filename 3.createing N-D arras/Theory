@@ -1,0 +1,7 @@
+Creating Numpy Arrays
+1.Using np.array()//1-D and 2-D
+2.Using np.zeros/ones/empty/random()
+3.Using np.arange()
+4.Using np.linspace()
+5.Using Copy()
+6.Using Identity()
