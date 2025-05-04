@@ -1,0 +1,7 @@
+Properties & Attribute
+1.	Shape
+2.	nDim
+3.	size
+4.	itemsize
+5.	dtype
+6.	astype()
