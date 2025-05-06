@@ -1,1 +1,13 @@
 
+Numpy array operation
+1.Basic Operation					1.Universal Function 
+a.A-b						        	a.np.exp(B)
+b.b*2							        b.np.sqrt()
+c.a<35							      c.np.sin(A)
+d.A*B						      	 2.Converting types
+e.A.dot(B)					    	a.astype()
+f.A*=B
+
+2.Unary Operation				
+a.A.min()/A.min()
+b.A.sum(axis=0)
